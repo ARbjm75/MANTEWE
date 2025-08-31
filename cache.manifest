@@ -1,13 +1,15 @@
 CACHE MANIFEST 
 
 CACHE: 
-img.jpg
+AR.jpg
+AR.ico
 style.css
 alert.mjs
 config.mjs
 goldhen_2.4b18.5.bin
 index.html
 lapse.mjs
+aio_patches.bin
 psfree.mjs
 send.mjs
 kpatch\900.elf
